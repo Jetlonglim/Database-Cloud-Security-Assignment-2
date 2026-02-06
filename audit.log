@@ -1,0 +1,45 @@
+2026-01-04 02:49:14,243 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-01-04 02:49:14,243 - [33mPress CTRL+C to quit[0m
+2026-01-04 02:49:14,246 -  * Restarting with stat
+2026-01-04 02:49:15,160 -  * Debugger is active!
+2026-01-04 02:49:15,167 -  * Debugger PIN: 670-877-023
+2026-01-04 02:49:26,154 - 127.0.0.1 - - [04/Jan/2026 02:49:26] "GET / HTTP/1.1" 200 -
+2026-01-04 02:49:26,674 - 127.0.0.1 - - [04/Jan/2026 02:49:26] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-01-04 02:49:33,076 - Admin logged in successfully.
+2026-01-04 02:49:33,077 - 127.0.0.1 - - [04/Jan/2026 02:49:33] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-01-04 02:49:33,094 - 127.0.0.1 - - [04/Jan/2026 02:49:33] "GET /dashboard HTTP/1.1" 200 -
+2026-01-04 02:49:37,120 - 127.0.0.1 - - [04/Jan/2026 02:49:37] "GET /edit-book/1 HTTP/1.1" 200 -
+2026-01-04 02:49:39,222 - 127.0.0.1 - - [04/Jan/2026 02:49:39] "GET /dashboard HTTP/1.1" 200 -
+2026-01-04 02:50:22,831 - 127.0.0.1 - - [04/Jan/2026 02:50:22] "GET /edit-book/1 HTTP/1.1" 200 -
+2026-01-04 02:50:27,699 - 127.0.0.1 - - [04/Jan/2026 02:50:27] "GET /dashboard HTTP/1.1" 200 -
+2026-01-04 02:50:31,264 - 127.0.0.1 - - [04/Jan/2026 02:50:31] "GET /add-book HTTP/1.1" 200 -
+2026-01-04 02:51:34,134 - Admin added book: Marvel (ISBN: 9781302934132)
+2026-01-04 02:51:34,134 - 127.0.0.1 - - [04/Jan/2026 02:51:34] "[32mPOST /add-book HTTP/1.1[0m" 302 -
+2026-01-04 02:51:34,143 - 127.0.0.1 - - [04/Jan/2026 02:51:34] "GET /dashboard HTTP/1.1" 200 -
+2026-01-04 02:51:47,695 - Admin logged out.
+2026-01-04 02:51:47,696 - 127.0.0.1 - - [04/Jan/2026 02:51:47] "[32mGET /logout HTTP/1.1[0m" 302 -
+2026-01-04 02:51:47,704 - 127.0.0.1 - - [04/Jan/2026 02:51:47] "GET / HTTP/1.1" 200 -
+2026-01-04 02:51:52,786 - Failed login attempt: agfa
+2026-01-04 02:51:52,786 - 127.0.0.1 - - [04/Jan/2026 02:51:52] "[31m[1mPOST /login HTTP/1.1[0m" 403 -
+2026-01-04 02:51:58,184 - Failed login attempt: agfa
+2026-01-04 02:51:58,184 - 127.0.0.1 - - [04/Jan/2026 02:51:58] "[31m[1mPOST /login HTTP/1.1[0m" 403 -
+2026-01-04 02:52:07,589 - Failed login attempt: agfaasg
+2026-01-04 02:52:07,589 - 127.0.0.1 - - [04/Jan/2026 02:52:07] "[31m[1mPOST /login HTTP/1.1[0m" 403 -
+2026-01-04 02:52:11,423 - Failed login attempt: agfaasg
+2026-01-04 02:52:11,423 - 127.0.0.1 - - [04/Jan/2026 02:52:11] "[31m[1mPOST /login HTTP/1.1[0m" 403 -
+2026-01-04 02:52:28,959 - Admin logged in successfully.
+2026-01-04 02:52:28,960 - 127.0.0.1 - - [04/Jan/2026 02:52:28] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-01-04 02:52:28,973 - 127.0.0.1 - - [04/Jan/2026 02:52:28] "GET /dashboard HTTP/1.1" 200 -
+2026-01-04 16:25:01,631 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-01-04 16:25:01,631 - [33mPress CTRL+C to quit[0m
+2026-01-04 16:25:01,634 -  * Restarting with stat
+2026-01-04 16:25:02,742 -  * Debugger is active!
+2026-01-04 16:25:02,747 -  * Debugger PIN: 118-101-951
+2026-01-04 16:25:12,783 - 127.0.0.1 - - [04/Jan/2026 16:25:12] "GET / HTTP/1.1" 200 -
+2026-01-04 16:25:13,402 - 127.0.0.1 - - [04/Jan/2026 16:25:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-01-04 16:25:20,971 - Admin logged in successfully.
+2026-01-04 16:25:20,972 - 127.0.0.1 - - [04/Jan/2026 16:25:20] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-01-04 16:25:21,013 - 127.0.0.1 - - [04/Jan/2026 16:25:21] "GET /dashboard HTTP/1.1" 200 -
+2026-01-04 16:36:43,721 - 127.0.0.1 - - [04/Jan/2026 16:36:43] "GET /edit-book/1 HTTP/1.1" 200 -
