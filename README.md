@@ -33,7 +33,4 @@ A comprehensive cloud architecture and security project focused on the risk asse
 * **Vulnerability Identification:** Improved my ability to assess legacy server environments and propose modern, secure alternatives.
 * **AWS Networking & Security:** Learned how to properly configure Application Load Balancers and managed databases to align with cloud security best practices.
 
----
 
-## 📄 Project Documentation
-*(Note: You can add links here to your PDF report, architecture diagrams, or presentation slides if you upload them to this repository!)*
